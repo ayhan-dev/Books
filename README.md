@@ -5,7 +5,7 @@
  - [Practical Guide to Applied Conformal Prediction in Python (2023)](https://github.com/ayhan-dev/Books/blob/main/file/Practical%20Guide%20to%20Applied%20Conformal%20Prediction%20in%20Python-1.pdf)
  - [Microsoft Access Verilənlər bazası](https://github.com/ayhan-dev/Books/blob/main/file/Access_konspekt2_230528_211420.pdf)
 - [The Mac Hacker'](https://github.com/ayhan-dev/Books/blob/main/file/The%20Mac%20Hacker's%20Handbook.pdf)
-
+- [Python для всех. Обработка данных]()
 
 
 
