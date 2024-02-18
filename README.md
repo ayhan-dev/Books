@@ -20,7 +20,7 @@
  - [The Mac Hacker'](https://github.com/ayhan-dev/Books/blob/main/file/The%20Mac%20Hacker's%20Handbook.pdf)
 
 ## AI: 
- [Data Science from Scratch: First Principles with Python](https://github.com/ayhan-dev/Books/blob/main/file/Joel_Grus_Data_Science_from_Scratch_First_Principles_with_Python.pdf)
+ - [Data Science from Scratch: First Principles with Python](https://github.com/ayhan-dev/Books/blob/main/file/Joel_Grus_Data_Science_from_Scratch_First_Principles_with_Python.pdf)
  -----------------------------------------
  - [tlg](t.me/ayhan_dev)
  - ayhandev.hashnode.dev
