@@ -21,7 +21,7 @@
 
 ## AI: 
  - [Data Science from Scratch: First Principles with Python](https://github.com/ayhan-dev/Books/blob/main/file/Joel_Grus_Data_Science_from_Scratch_First_Principles_with_Python.pdf)
- - [NLP Roadmap]()
+ - [NLP Roadmap](https://github.com/ayhan-dev/Books/blob/main/file/NLP%20Roadmap-1.pdf)
  
  -----------------------------------------
  - [tlg](t.me/ayhan_dev)
