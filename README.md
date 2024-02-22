@@ -23,7 +23,7 @@
 ## AI: 
  - [Data Science from Scratch: First Principles with Python](https://github.com/ayhan-dev/Books/blob/main/file/Joel_Grus_Data_Science_from_Scratch_First_Principles_with_Python.pdf)
  - [NLP Roadmap](https://github.com/ayhan-dev/Books/blob/main/file/NLP%20Roadmap-1.pdf)
- - [Математика для глубокого обучения: что нужно знать, чтобы понять нейронные сети]()
+ - [Математика для глубокого обучения: что нужно знать, чтобы понять нейронные сети](https://github.com/ayhan-dev/Books/blob/main/file/Ronald_T_Kneusel_Math_for_Deep_Learning_What_You_Need_to_Know_to.epub)
  
  -----------------------------------------
  - [tlg](t.me/ayhan_dev)
