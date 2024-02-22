@@ -18,7 +18,7 @@
 ## Hacking and security:
  - [ЗАПУСКАЕМ МАЛВАРЬ ИЗ СЛЕПОЙ ЗОНЫ EDR](https://github.com/ayhan-dev/Books/blob/main/file/%D0%97%D0%90%D0%9F%D0%A3%D0%A1%D0%9A%D0%90%D0%95%D0%9C_%D0%9C%D0%90%D0%9B%D0%92%D0%90%D0%A0%D0%AC_%D0%98%D0%97_%D0%A1%D0%9B%D0%95%D0%9F%D0%9E%D0%98%CC%86_%D0%97%D0%9E%D0%9D%D0%AB_EDR.pdf)
  - [The Mac Hacker'](https://github.com/ayhan-dev/Books/blob/main/file/The%20Mac%20Hacker's%20Handbook.pdf)
-- ]Windows Security Internals: A Deep Dive into Windows Authentication, Authorization, and Auditing by James Forshaw, 2024 (Early Access 2023)[)(
+ - [Windows Security Internals: A Deep Dive into Windows Authentication, Authorization, and Auditing by James Forshaw, 2024 (Early Access 2023)](https://github.com/ayhan-dev/Books/blob/main/file/Windows%20Security%20Internals.pdf)
 ## AI: 
  - [Data Science from Scratch: First Principles with Python](https://github.com/ayhan-dev/Books/blob/main/file/Joel_Grus_Data_Science_from_Scratch_First_Principles_with_Python.pdf)
  - [NLP Roadmap](https://github.com/ayhan-dev/Books/blob/main/file/NLP%20Roadmap-1.pdf)
