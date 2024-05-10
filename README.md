@@ -5,6 +5,9 @@
 
 
   -----------------------------------------
+ ## developer  
+  - ["Clean Code Recipe Book: Recipes for Improving the Design and Quality of Your Code"](https://drive.google.com/uc?id=1baI8CuiNhAUbNHibwJSJKcR-FFcBBaH2&export=download)
+
 
  ## Python: 
   - [Practical Guide to Applied Conformal Prediction in Python (2023)](https://github.com/ayhan-dev/Books/blob/main/file/Practical%20Guide%20to%20Applied%20Conformal%20Prediction%20in%20Python-1.pdf)
