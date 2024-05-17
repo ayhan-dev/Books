@@ -32,6 +32,7 @@
 ## Electricity and electronics:
  - [The Comprehensive Encyclopedia of Electrical and Electronics Engineering](https://drive.google.com/uc?id=1UqBZ-qnKV489RdiFturo0mZSTP4Q2j1g&export=download)
  - [Exploring Arduino-Based Embedded Systems: Interface, Simulation, and LabVIEW GUI](https://drive.google.com/uc?id=1whlM71EXhUiyBilGLoon7IdiOUwrfp7o&export=download)
+ - [Defective Device Diagnosis: An Essential Handbook for Electronics Manufacturers](https://drive.google.com/uc?id=1LABXHBJzjN2PgCEfZaC4R5GJjDjwlj2V&export=download)
 
  
  -----------------------------------------
